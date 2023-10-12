@@ -40,8 +40,8 @@ Color whitelisting and better OCR results
 
 Local translation database?
 
-Cleaner Overlay
+Better overlay
 
-Settings file/GUI settings use for non technical people
+Settings file/GUI settings/saving settings for quality of life of non technical people
 
-Update notifications/auto update?
+auto update?
