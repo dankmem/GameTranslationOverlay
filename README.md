@@ -1,3 +1,5 @@
+PROJECT IS UNDER DEVELOPMENT, NO CODE HERE YET. WAITING TO ADD MORE LANGUAGE SUPPORT BEFORE UPLOADING.
+
 # GameTranslationOverlay
 This app is primarily meant for translating Korean to English for league of legends players.
 
