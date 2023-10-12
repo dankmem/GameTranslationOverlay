@@ -12,9 +12,12 @@ Set tesseract path in system enviromental variables.
 
 Download this repository as zip and extract
 
-Modify translationoverlay.py to adjust 
+Modify translationoverlay.py to adjust settings your prefrences 
+
   chatbox x1, y1, x2, y2 using coordinates. Default should be fine for default league of legends chat box placement on 1080p
+  
   screenshot key(= by default) and other settings.
+  
   Text color/font, sizing, location. 
 
 
