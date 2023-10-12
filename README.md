@@ -11,11 +11,12 @@ Install tesseract-OCR from https://github.com/UB-Mannheim/tesseract/wiki#tessera
 Set tesseract path in system enviromental variables.
 
 Download this repository as zip and extract
+
 Open cmd window in the folder you extract to.
 
 Type "pip install -r requirements.txt"
 
-This will install python dependencies for this project if successful. If you see an error about command pip not found, ensure your python PATH enviromental variable is set correctly.
+This will install python dependencies for this project if successful. * If you see an error about command pip not found, ensure your python PATH enviromental variable is set correctly.
 
 Modify translationoverlay.py to adjust settings your prefrences 
 
@@ -31,7 +32,11 @@ After launching and you see tk inter window/test overlay go in game and when the
 
 TODO
 Color whitelisting and better OCR results
+
 Local translation database?
+
 Cleaner Overlay
-Settings file/Easier use for non technical people
+
+Settings file/GUI settings use for non technical people
+
 Update notifications/auto update?
