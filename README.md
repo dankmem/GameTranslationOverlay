@@ -50,3 +50,5 @@ More languages
 Save/Load settings file/GUI settings/saving settings quality of life of non technical people
 
 auto update?
+
+translate clipboard, if it can be accessed in game. (need to test)
