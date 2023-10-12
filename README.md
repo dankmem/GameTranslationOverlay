@@ -14,11 +14,11 @@ Download this repository as zip and extract
 
 Modify translationoverlay.py to adjust settings your prefrences 
 
-  chatbox x1, y1, x2, y2 using coordinates. Default should be fine for default league of legends chat box placement on 1080p
+        chatbox x1, y1, x2, y2 using coordinates. Default should be fine for default league of legends chat box placement on 1080p
   
-  screenshot key(= by default) and other settings.
+         screenshot key(= by default) and other settings.
   
-  Text color/font, sizing, location. 
+         color/font, sizing, location. 
 
 
 After launching and you see tk inter window/test overlay go in game and when there is chat you want to translate press enter to open chat box and then press your screenshot key (= default). The application should screenshot your chat box region, extract the in game text, send it to google for translation then the overlay window should update to show the translated text. 
@@ -28,5 +28,5 @@ TODO
 Color whitelisting and better OCR results
 Local translation database?
 Cleaner Overlay
-Easier use for non technical people. 
+Settings file/Easier use for non technical people
 Update notifications/auto update?
