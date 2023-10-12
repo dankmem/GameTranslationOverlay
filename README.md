@@ -1,4 +1,9 @@
 # GameTranslationOverlay
+This app is primarily meant for translating Korean to English for league of legends players.
+
+Please provide feedback to trihard7#8793 on Discord if you use this!
+Especially useful for twitch streamers.
+
 This is a simple overlay for translating text in games. The primary goal is for translating league of legends korea to english, but it should work for other games with minor adjustments. 
 Uses tkinter for overlay. (USE AT OWN RISK, some games anticheat don't allow overlays. Tested to be OK in league of legends)
 
