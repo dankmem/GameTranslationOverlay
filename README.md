@@ -45,6 +45,8 @@ Local translation database?
 
 Better overlay
 
-Settings file/GUI settings/saving settings for quality of life of non technical people
+More languages
+
+Save/Load settings file/GUI settings/saving settings quality of life of non technical people
 
 auto update?
