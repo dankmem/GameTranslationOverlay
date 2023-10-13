@@ -15,7 +15,6 @@ hyperframe
 idna
 keyboard
 MouseInfo
-mss
 numpy
 opencv-python
 packaging
@@ -23,7 +22,6 @@ Pillow
 PyAutoGUI
 PyGetWindow
 PyMsgBox
-pyperclip
 PyRect
 pyscreenshot
 PyScreeze
