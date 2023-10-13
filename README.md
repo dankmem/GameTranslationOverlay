@@ -1,3 +1,4 @@
+League of Legends Translator
 ![Screenshot](https://github.com/dankmem/GameTranslationOverlay/blob/main/preview%20translation/image.png)
 Make sure you are using borderless-windowed or the overlay/screenshots will not work!!!!!
 
