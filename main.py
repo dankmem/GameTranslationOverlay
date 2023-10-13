@@ -26,6 +26,7 @@ def writecoordcmd():
 #Set overlaybool to false if overlays not allowed in your game
 #will move some of these options to tkinter gui eventually.
 closekey="f12"
+cleartextkey="f11"
 translationkey="="
 overlaybool=True
 overlayonlygamewindowactive=False
@@ -260,6 +261,9 @@ except:
 
 #main loop
 while True:
+    if keyboard.is_pressed("f11"):
+        textlabel.config(text=" ")
+        translationwindow.update()
     if keyboard.is_pressed("f12"):
         exit()
     x, y = pyautogui.position()
