@@ -26,7 +26,7 @@ def writecoordcmd():
 #Set overlaybool to false if overlays not allowed in your game
 #will move some of these options to tkinter gui eventually.
 closekey="f12"
-cleartextkey="f11"
+cleartextkey="f10"
 translationkey="="
 overlaybool=True
 overlayonlygamewindowactive=False
@@ -257,7 +257,7 @@ try:
             print("Update Availible on github.")
             print("Local Version: " + str(localversion) + " web version: " + str(webversion))
 except:
-    tkinter.messagebox.showinfo(title=None, message="Could not check github for update...")
+    tkinter.messagebox.showinfo(title=None, message="Could not check github for update... Check internet connection/firewall setting")
 
 #main loop
 while True:
