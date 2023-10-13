@@ -1,3 +1,5 @@
+https://github.com/dankmem/GameTranslationOverlay/blob/main/preview%20translation/image.png
+
 Default key to translate is =
 
 Default key to exit program is f12
