@@ -1,5 +1,6 @@
-PROJECT IS UNDER DEVELOPMENT, NO CODE HERE YET. WAITING TO ADD MORE LANGUAGE SUPPORT AND FIXES/FEATURES BEFORE UPLOADING. ETA 1-5 DAYS
-
+Default key to translate is =
+Default key to exit program is f12
+edit parts of main.py near the top to change settings. May add settings file and gui later.
 
 # GameTranslationOverlay
 This app is primarily meant for translating Korean to English for league of legends players.
