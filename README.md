@@ -22,7 +22,7 @@ How to use
 
 Install python https://www.python.org/downloads/ and enable checkbox to set enviromental variable inside installer
 
-Install tesseract-OCR from https://github.com/UB-Mannheim/tesseract/wiki#tesseract-installer-for-windows enable checkbox for additional language data. 
+Install tesseract-OCR from https://github.com/UB-Mannheim/tesseract/wiki#tesseract-installer-for-windows enable checkbox for additional language data. MAKE SURE PATH ENVIROMENTAL VARIABLE IS SETUP FOR TESSERACT OCR OR YOU WILL GET AN ERROR!
 
 Set tesseract path in system enviromental variables.
 
