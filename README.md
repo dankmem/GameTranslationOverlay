@@ -1,5 +1,7 @@
 Default key to translate is =
+
 Default key to exit program is f12
+
 edit parts of main.py near the top to change settings. May add settings file and gui later.
 
 # GameTranslationOverlay
