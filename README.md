@@ -1,5 +1,5 @@
 ![Screenshot](https://github.com/dankmem/GameTranslationOverlay/blob/main/preview%20translation/image.png)
-
+Make sure you are using borderless-windowed or the overlay/screenshots will not work!!!!!
 
 Default key to translate is =
 
@@ -11,11 +11,12 @@ edit parts of main.py near the top to change settings. May add settings file and
 # GameTranslationOverlay
 This app is primarily meant for translating Korean to English for league of legends players.
 
-Please provide feedback to trihard7#8793 on Discord if you use this!
-Especially useful for twitch streamers.
+Please provide feedback to trihard7#8793 on Discord if you use this! Especially if you are a streamer!
+If you window capture in OBS, use the "Windows 10" method to avoid issues.
 
 This is a simple overlay for translating text in games. The primary goal is for translating league of legends korea to english, but it should work for other games with minor adjustments. 
 Uses tkinter for overlay. (USE AT OWN RISK, some games anticheat don't like overlays or pyautogui library. May remove pyautogui in future. Tested to be OK in league of legends)
+This does not read game memory or use automated inputs, so only really shitty anticheats would false ban for this.
 
 How to use
 
