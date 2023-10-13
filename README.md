@@ -1,4 +1,5 @@
-https://github.com/dankmem/GameTranslationOverlay/blob/main/preview%20translation/image.png
+![Screenshot](https://github.com/dankmem/GameTranslationOverlay/blob/main/preview%20translation/image.png)
+
 
 Default key to translate is =
 
