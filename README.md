@@ -4,7 +4,7 @@ Make sure you are using borderless-windowed or the overlay/screenshots will not 
 
 Default key to translate is =
 
-Default key to exit program is f12
+Default key to exit program is f12, f10 to clear translation text.
 
 edit parts of main.py near the top to change settings. May add settings file and gui later.
       You can edit font size, overlay location/tesseract screenshot region. Use checkbox in options window to show mouse coordinates. Coordinates in main.py are for top left corner and bottom right corner, defaults should work for 1080p default chat box location in league of legends.
